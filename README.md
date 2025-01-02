@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Aman pandey
-- 👀 I’m interested in webdevelopment
-- 🌱 I’m currently learning data structures and web development
+- 👋 Hi, I’m Aman pandey MERN stack developer 
+- 👀 I’m interested in software development
+- 🌱 I’m learning new and latest technologies. 
 
 
 
